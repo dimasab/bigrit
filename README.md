@@ -5,4 +5,6 @@ Welcome. Ruanglaptop is a website where you can create high-quality texts conten
 
 This repository does not contain any real website code. I keep the repository private.
 
+Don't forget to visit ruanglaptop.com
+
 Cheers.
