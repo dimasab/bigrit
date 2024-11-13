@@ -1,0 +1,11 @@
+username=andysurprj2
+password=3vLDpQ@8jWksFPz^nGcxZ7Bq6Rtm!U4JH%AweSYb*9N1fh!dV5Erjl2X#0KyQo&T
+aikey=d84nG7Vp9kX1LmZ2Rj0QqT8Vy6F4uM3bC5yJ9W8xR7pK2nH6sL0vT1zQ8fB4wY3aPmT7CxQ9Z2X1Y4rD8Vb
+ngandy=andy.surprj@gmail.com
+niagahosterpwd=b1a5e7f0c3d8a2g5h9j7l6k2m0n4p2r6s8t4u1v3w5x7y9z0q8r6t5u3v1w2x4
+DB_PORT=5432
+DB_USER=andysurprj2_db
+DB_PASSWORD=jangandisini
+DB_NAME=rl_4
+NGHSTR_API_KEY=AKIAXYB16AND44
+NGHSTR_API_SECRET=wJalrXUtnFEMI/K7MDENG+bPxRfiCYGUUH5DR0
